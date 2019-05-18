@@ -36,7 +36,7 @@ client.login(ayarlar.token);
 client.on('ready', () => {
     client.user.setPresence({
         game: {
-            name: `.Koorx Sıkıntılarınızı`,
+            name: `Buraya Oynuyor Yerinde Yazmasını Istediğiniz Şeyi Yazınız.!`,
             type: 'LISTENING'
             // Değerler:
             // PLAYING: Oynuyor
